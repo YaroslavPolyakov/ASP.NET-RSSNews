@@ -1,1 +1,1 @@
-# ASP.NET-RSSNews
+# Web page for displaying news
